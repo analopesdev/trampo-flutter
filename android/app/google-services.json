@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "57809190051",
+    "firebase_url": "https://trampo-ba01f.firebaseio.com",
+    "project_id": "trampo-ba01f",
+    "storage_bucket": "trampo-ba01f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57809190051:android:71740d057b346d95121316",
+        "android_client_info": {
+          "package_name": "com.analopes.trampo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "57809190051-bjgpp024aa0tbs2eesat6jm2hikk389b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMFJQPepRsYbZ8XaQhFnIxL1kiFkb2otI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "57809190051-bjgpp024aa0tbs2eesat6jm2hikk389b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
